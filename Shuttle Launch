@@ -1,0 +1,34 @@
+let date = "Monday 2019-03-18";
+let time= "10:05:34 AM";
+let astronautCount	7;
+let astronautStatus="ready";
+let averageAstronautMassKg='80.7';
+let crewMassKg=astronautCount * averageAstronautMassKg;
+let fuelMassKg=760,000;
+let shuttleMassKg=74842.31;
+let totalMassKg=crewMassKg + fuelMassKg + shuttleMassKg;
+let maximumMassLimit=850000;
+let fuelTempCelsius	=225;
+let minimumFuelTemp	=300;
+let maximumFuelTemp	=150;
+let fuelLevel=100%;
+let weatherStatus=clear;
+let preparedForLiftOff =true 
+
+if (astronautCount < greater than 7);
+if (astronautStatus = ready);
+if  (totalMassKg <= maximumMassLimit)''
+if  (fuelTempCelsius <= -300 OR no greater than -150
+if (fuelLevel =100%)
+if (weatherStatus = clear);
+
+console.log(date);
+console.log(time);
+console.log(astronautCount)
+console.log(crewMassKg);
+console.log(fuelMassKg);
+console.log(shuttleMassKg);
+console.log(totalMasskg)''
+console.log(fuelTempCelsius);
+console.log(weatherStatus);
+Wish your astronauts a safe flight!
